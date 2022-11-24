@@ -1,5 +1,5 @@
-check lic.a is Nok!
-check lic.a.live2 is Nok!
+check lic.a is ok!
+check lic.a.live2 is ok!
 check lic.a.errors2 is ok!
 .magic
 split-start-split-users-login ,ahmeden,ahmedz,amres,hossamk,inasm,louaym,mohameds,nardinec,nayerah,neamaf,reemm,toqqaa-endsplthere-users-login
